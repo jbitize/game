@@ -33,5 +33,5 @@
 
 ### 6. Execution Order
 ```
-Interview (if needed) -> research.md review (if exists) -> plan.md -> User approval -> Implementation -> Test -> Deploy (git push)
+Interview (if needed) -> research.md review (if exists) -> plan.md -> User approval -> Implementation -> Test -> Commit + Push -> Deploy (별도 명령 — push 는 배포가 아니다)
 ```
